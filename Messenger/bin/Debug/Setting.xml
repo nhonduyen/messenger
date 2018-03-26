@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Setting>
+  <RunStart boolean="true" />
+  <RecvFile boolean="true" />
+  <NickName Nick="SVNN082110" />
+  <FilePath Path="D:\Message File" />
+  <Connecting />
+  <IpUpdate />
+</Setting>

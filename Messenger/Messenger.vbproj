@@ -1,0 +1,449 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2A38B9D7-6A0B-44C6-B870-3667E710CAB1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Messenger.My.MyApplication</StartupObject>
+    <RootNamespace>Messenger</RootNamespace>
+    <AssemblyName>Messenger</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>D:\Messenger Setup\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Background</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ProductName>Messenger</ProductName>
+    <PublisherName>Posco ICT Viet Nam</PublisherName>
+    <MinimumRequiredVersion>1.0.0.1</MinimumRequiredVersion>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>31</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>true</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <BootstrapperComponentsLocation>Relative</BootstrapperComponentsLocation>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Messenger.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Messenger.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icons\messenger .ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>C567878D9E8D72C382504AF32221ED92833A9BEC</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Messenger_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <TargetZone>LocalIntranet</TargetZone>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Interop.IWshRuntimeLibrary">
+      <HintPath>C:\WINDOWS\system32\Interop.IWshRuntimeLibrary.dll</HintPath>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="MSBuild.ExtensionPack">
+      <HintPath>C:\WINDOWS\system32\MSBuild.ExtensionPack.dll</HintPath>
+    </Reference>
+    <Reference Include="SourceGrid2">
+      <HintPath>..\..\..\..\..\Code\frmDataTrend\frmDataTrend\bin\Debug\SourceGrid2.dll</HintPath>
+    </Reference>
+    <Reference Include="SourceLibrary">
+      <HintPath>..\..\..\..\..\Code\frmDataTrend\frmDataTrend\bin\Debug\SourceLibrary.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="EmoticonMenuItem.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="frmCapture.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="cMgrVariable.vb" />
+    <Compile Include="cMgrXml.vb" />
+    <Compile Include="cTakeScreenPicture.vb" />
+    <Compile Include="cUdpClient.vb" />
+    <Compile Include="cUdpServer.vb" />
+    <Compile Include="ExRichTextBox.vb">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="frmAbout.Designer.vb">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddContact.Designer.vb">
+      <DependentUpon>frmAddContact.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddContact.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChat.Designer.vb">
+      <DependentUpon>frmChat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmChat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmChatGroupClient.Designer.vb">
+      <DependentUpon>frmChatGroupClient.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmChatGroupClient.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConfirmGroup.Designer.vb">
+      <DependentUpon>frmConfirmGroup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConfirmGroup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmConnect.Designer.vb">
+      <DependentUpon>frmConnect.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmConnect.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDisplayImage.Designer.vb">
+      <DependentUpon>frmDisplayImage.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmDisplayImage.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGroupChat.Designer.vb">
+      <DependentUpon>frmGroupChat.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmGroupChat.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmInvite.Designer.vb">
+      <DependentUpon>frmInvite.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmInvite.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.vb">
+      <DependentUpon>frmMain.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRecvOption.Designer.vb">
+      <DependentUpon>frmRecvOption.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmRecvOption.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSend.Designer.vb">
+      <DependentUpon>frmSend.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSend.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSendGroup.Designer.vb">
+      <DependentUpon>frmSendGroup.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSendGroup.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSendRecv.Designer.vb">
+      <DependentUpon>frmSendRecv.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSendRecv.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSetting.Designer.vb">
+      <DependentUpon>frmSetting.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmSetting.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmUpdate.Designer.vb">
+      <DependentUpon>frmUpdate.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmUpdate.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="StateObject.vb" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmCapture.resx">
+      <DependentUpon>frmCapture.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAbout.resx">
+      <DependentUpon>frmAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddContact.resx">
+      <DependentUpon>frmAddContact.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChat.resx">
+      <DependentUpon>frmChat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmChatGroupClient.resx">
+      <DependentUpon>frmChatGroupClient.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConfirmGroup.resx">
+      <DependentUpon>frmConfirmGroup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmConnect.resx">
+      <DependentUpon>frmConnect.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDisplayImage.resx">
+      <DependentUpon>frmDisplayImage.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGroupChat.resx">
+      <DependentUpon>frmGroupChat.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmInvite.resx">
+      <DependentUpon>frmInvite.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRecvOption.resx">
+      <DependentUpon>frmRecvOption.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSend.resx">
+      <DependentUpon>frmSend.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSendGroup.resx">
+      <DependentUpon>frmSendGroup.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSendRecv.resx">
+      <DependentUpon>frmSendRecv.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSetting.resx">
+      <DependentUpon>frmSetting.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmUpdate.resx">
+      <DependentUpon>frmUpdate.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Release\document\HowToUseMessenger.doc" />
+    <None Include="bin\Release\How to use messenger.doc" />
+    <None Include="document\HowToUseMessenger.doc" />
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\ChatMessage.wav" />
+    <None Include="bin\Debug\ChatOpen.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sounds\alert.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\main.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="icons\messenger .ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sounds\buzz.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sounds\message.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sounds\offline.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sounds\online.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="sounds\open.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Emoticons\1.gif" />
+    <Content Include="Emoticons\10.gif" />
+    <Content Include="Emoticons\11.gif" />
+    <Content Include="Emoticons\12.gif" />
+    <Content Include="Emoticons\13.gif" />
+    <Content Include="Emoticons\14.gif" />
+    <Content Include="Emoticons\15.gif" />
+    <Content Include="Emoticons\16.gif" />
+    <Content Include="Emoticons\17.gif" />
+    <Content Include="Emoticons\18.gif" />
+    <Content Include="Emoticons\19.gif" />
+    <Content Include="Emoticons\2.gif" />
+    <Content Include="Emoticons\20.gif" />
+    <Content Include="Emoticons\3.gif" />
+    <Content Include="Emoticons\4.gif" />
+    <Content Include="Emoticons\5.gif" />
+    <Content Include="Emoticons\6.gif" />
+    <Content Include="Emoticons\7.gif" />
+    <Content Include="Emoticons\8.gif" />
+    <Content Include="Emoticons\9.gif" />
+    <Content Include="icons\4.gif" />
+    <Content Include="icons\images.ico" />
+    <Content Include="icons\none.ico" />
+    <Content Include="icons\offline.ico" />
+    <Content Include="icons\online.ico" />
+    <Content Include="images\add.png" />
+    <Content Include="images\addcontact.jpg" />
+    <Content Include="images\bottom.jpg" />
+    <None Include="images\bottom_.jpg" />
+    <Content Include="images\connect.jpg" />
+    <Content Include="images\connect.png" />
+    <Content Include="images\excel.jpg" />
+    <Content Include="images\exe.jpg" />
+    <Content Include="images\iso.jpg" />
+    <Content Include="images\pdf.jpg" />
+    <Content Include="images\ptt.jpg" />
+    <Content Include="images\rar.jpg" />
+    <Content Include="images\unknow.jpg" />
+    <Content Include="images\word.jpg" />
+    <None Include="Resources\Image1.gif" />
+    <None Include="Resources\bells.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Shell32">
+      <Guid>{50A7E9B0-70EF-11D1-B75A-00A0C90564FE}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>False</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

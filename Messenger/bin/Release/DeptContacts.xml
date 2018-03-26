@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Contacts>
+  <group name="ICT">
+    <contact IP="172.25.215.44">
+      <NICKNAME>ICT_TUNGNGUYEN</NICKNAME>
+      <NAME>
+      </NAME>
+      <PHONE>1720</PHONE>
+      <MOBILE>
+      </MOBILE>
+    </contact>
+    <contact IP="172.25.215.69">
+      <NICKNAME>ICT_NGUYEN</NICKNAME>
+      <NAME>
+      </NAME>
+      <PHONE>
+      </PHONE>
+      <MOBILE>
+      </MOBILE>
+    </contact>
+    <contact IP="172.25.215.120">
+      <NICKNAME>ICT_HwangMG</NICKNAME>
+      <NAME>
+      </NAME>
+      <PHONE>1722</PHONE>
+      <MOBILE>01239334893</MOBILE>
+    </contact>
+    <contact IP="172.25.215.70">
+      <NICKNAME>ICT_DIEMLE</NICKNAME>
+      <NAME>Le Diem</NAME>
+      <PHONE>1720</PHONE>
+      <MOBILE>1720</MOBILE>
+    </contact>
+    <contact IP="172.25.215.96">
+      <NICKNAME>ICT_Oh</NICKNAME>
+      <NAME>
+      </NAME>
+      <PHONE>
+      </PHONE>
+      <MOBILE>123</MOBILE>
+    </contact>
+    <contact IP="172.25.215.56">
+      <NICKNAME>ICT_ThuanNDL</NICKNAME>
+      <NAME>
+      </NAME>
+      <PHONE>
+      </PHONE>
+      <MOBILE>
+      </MOBILE>
+    </contact>
+    <contact IP="172.25.215.60">
+      <NICKNAME>ICT_HANH</NICKNAME>
+      <NAME>
+      </NAME>
+      <PHONE>
+      </PHONE>
+      <MOBILE>
+      </MOBILE>
+    </contact>
+  </group>
+  <group name="ACCOUTING" />
+  <group name="GA" />
+  <group name="HR" />
+  <group name="LOGISTICS" />
+  <group name="MAINTENANCE" />
+  <group name="PRD_SCRAP" />
+  <group name="PROD_SHIPPING_YARD" />
+  <group name="PROD_QUANLITY" />
+  <group name="PRODUCTION">
+  </group>
+  <group name="PRODUCTION_1" />
+  <group name="PRODUCTION_2" />
+  <group name="PURCHASE" />
+  <group name="SAFETY" />
+  <group name="FACTORY_#1" />
+  <group name="FACTORY_#2" />
+  <group name="OTHER" />
+  <group name="Other">
+    <contact IP="172.25.215.73">
+      <NICKNAME>HAU_ICT</NICKNAME>
+      <NAME>Nguyen Trung  Hau</NAME>
+      <PHONE>1720</PHONE>
+      <MOBILE>01652.744.414</MOBILE>
+    </contact>
+  </group>
+</Contacts>

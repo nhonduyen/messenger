@@ -1,0 +1,103 @@
+D:\Messenger\Messeger_Admin\Messenger\bin\Debug\Messenger.exe.manifest
+D:\Messenger\Messeger_Admin\Messenger\bin\Debug\Messenger.application
+D:\Messenger\Messeger_Admin\Messenger\bin\Debug\Messenger.exe
+D:\Messenger\Messeger_Admin\Messenger\bin\Debug\Messenger.pdb
+D:\Messenger\Messeger_Admin\Messenger\bin\Debug\Messenger.xml
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmCapture.resources
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmAbout.resources
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmAddContact.resources
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmChat.resources
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmChatGroupClient.resources
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmConfirmGroup.resources
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmConnect.resources
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmDisplayImage.resources
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmGroupChat.resources
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmInvite.resources
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmMain.resources
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmRecvOption.resources
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmSend.resources
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmSendGroup.resources
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmSendRecv.resources
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmSetting.resources
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmUpdate.resources
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.Resources.resources
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.TrustInfo.xml
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.exe.manifest
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.application
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.exe
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.xml
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.pdb
+D:\Messenger\Messeger_Admin\Messenger\bin\Debug\Interop.IWshRuntimeLibrary.dll
+D:\Messenger\Messeger_Admin\Messenger\bin\Debug\Interop.Shell32.dll
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Interop.Shell32.dll
+D:\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.vbproj.ResolveComReference.cache
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Interop.Shell32.dll
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.vbproj.ResolveComReference.cache
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\bin\Debug\Messenger.exe.manifest
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\bin\Debug\Messenger.application
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\bin\Debug\Messenger.exe
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\bin\Debug\Messenger.pdb
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\bin\Debug\Messenger.xml
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\bin\Debug\Interop.Shell32.dll
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmCapture.resources
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmAbout.resources
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmAddContact.resources
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmChat.resources
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmChatGroupClient.resources
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmConfirmGroup.resources
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmConnect.resources
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmDisplayImage.resources
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmGroupChat.resources
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmInvite.resources
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmMain.resources
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmRecvOption.resources
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmSend.resources
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmSendGroup.resources
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmSendRecv.resources
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmSetting.resources
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmUpdate.resources
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.Resources.resources
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.vbproj.GenerateResource.Cache
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.TrustInfo.xml
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.exe.manifest
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.application
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.exe
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.xml
+D:\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.pdb
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Interop.Shell32.dll
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.vbproj.ResolveComReference.cache
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.exe
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.xml
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.pdb
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\bin\Debug\Messenger.exe.manifest
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\bin\Debug\Messenger.application
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\bin\Debug\Messenger.exe
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\bin\Debug\Messenger.pdb
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\bin\Debug\Messenger.xml
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\bin\Debug\Interop.Shell32.dll
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.vbprojResolveAssemblyReference.cache
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmCapture.resources
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmAbout.resources
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmAddContact.resources
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmChat.resources
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmChatGroupClient.resources
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmConfirmGroup.resources
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmConnect.resources
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmDisplayImage.resources
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmGroupChat.resources
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmInvite.resources
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmMain.resources
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmRecvOption.resources
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmSend.resources
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmSendGroup.resources
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmSendRecv.resources
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmSetting.resources
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.frmUpdate.resources
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.Resources.resources
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.vbproj.GenerateResource.Cache
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.TrustInfo.xml
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.exe.manifest
+D:\Other\Level2 Project\Messenger\Messenger\Messeger_Admin\Messenger\obj\x86\Debug\Messenger.application

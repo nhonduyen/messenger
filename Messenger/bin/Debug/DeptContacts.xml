@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Contacts>
+  <group name="OTHER">
+    <contact IP="172.25.215.51">
+      <NICKNAME>son ict</NICKNAME>
+      <NAME>
+      </NAME>
+      <PHONE>
+      </PHONE>
+      <MOBILE>
+      </MOBILE>
+    </contact>
+    <contact IP="172.25.215.70">
+      <NICKNAME>ICT_DIEM</NICKNAME>
+      <NAME>Le Diem</NAME>
+      <PHONE>1720</PHONE>
+      <MOBILE>1720</MOBILE>
+    </contact>
+    <contact IP="172.25.215.115">
+      <NICKNAME>INNO_HIEP</NICKNAME>
+      <NAME>
+      </NAME>
+      <PHONE>
+      </PHONE>
+      <MOBILE>
+      </MOBILE>
+    </contact>
+  </group>
+  <group name="ICT">
+    <contact IP="172.25.215.73">
+      <NICKNAME>ICT_HAU</NICKNAME>
+      <NAME>Nguyen Trung Hau</NAME>
+      <PHONE>01652744414</PHONE>
+      <MOBILE>01652744414</MOBILE>
+    </contact>
+    <contact IP="172.25.215.102">
+      <NICKNAME>ICT_Level2 Server</NICKNAME>
+      <NAME>
+      </NAME>
+      <PHONE>
+      </PHONE>
+      <MOBILE>
+      </MOBILE>
+    </contact>
+    <contact IP="172.25.215.69">
+      <NICKNAME>ICT_NGUYEN</NICKNAME>
+      <NAME>
+      </NAME>
+      <PHONE>
+      </PHONE>
+      <MOBILE>
+      </MOBILE>
+    </contact>
+    <contact IP="172.25.215.120">
+      <NICKNAME>ICT_HwangMG</NICKNAME>
+      <NAME>
+      </NAME>
+      <PHONE>1722</PHONE>
+      <MOBILE>01239334893</MOBILE>
+    </contact>
+  </group>
+  <group name="ACCOUTING">
+    <contact IP="172.25.216.37">
+      <NICKNAME>VST_ACC_06-Minh</NICKNAME>
+      <NAME>
+      </NAME>
+      <PHONE>
+      </PHONE>
+      <MOBILE>
+      </MOBILE>
+    </contact>
+  </group>
+  <group name="GA" />
+  <group name="HR" />
+  <group name="LOGISTICS" />
+  <group name="MAINTENANCE" />
+  <group name="PRD_SCRAP" />
+  <group name="PROD_SHIPPING_YARD" />
+  <group name="PROD_QUANLITY" />
+  <group name="PRODUCTION" />
+  <group name="PRODUCTION_1" />
+  <group name="PRODUCTION_2" />
+  <group name="PURCHASE" />
+  <group name="SAFETY" />
+  <group name="FACTORY_#1" />
+  <group name="FACTORY_#2">
+    <contact IP="172.25.216.111">
+      <NICKNAME>NO.2 FAC-QUYEN</NICKNAME>
+      <NAME>
+      </NAME>
+      <PHONE>
+      </PHONE>
+      <MOBILE>
+      </MOBILE>
+    </contact>
+  </group>
+</Contacts>
